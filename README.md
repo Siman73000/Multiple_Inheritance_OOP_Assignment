@@ -1,1 +1,0 @@
-# Multiple_Inheritance_OOP_Assignment
